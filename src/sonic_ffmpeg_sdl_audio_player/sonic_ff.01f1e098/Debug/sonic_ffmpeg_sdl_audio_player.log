@@ -1,0 +1,36 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.cpp
+E:\tool\project\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\main.cpp(83,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  xcodec.cpp
+E:\tool\project\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“xcodec.cpp”)
+  
+  xdecode.cpp
+E:\tool\project\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“xdecode.cpp”)
+  
+  xdemux.cpp
+E:\tool\project\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“xdemux.cpp”)
+  
+  xformat.cpp
+E:\tool\project\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“xformat.cpp”)
+  
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\xformat.cpp(7,39): warning C4018: “>=”: 有符号/无符号不匹配
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\xformat.cpp(21,39): warning C4018: “>=”: 有符号/无符号不匹配
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\xformat.cpp(51,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  sonic.c
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(264,33): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(407,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(520,30): warning C4244: “=”: 从“const float”转换到“short”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(975,42): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(1029,25): warning C4244: “=”: 从“float”转换到“long”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(1051,33): warning C4244: “=”: 从“float”转换到“long”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(1082,58): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\tool\project\src\sonic_ffmpeg_sdl_audio_player\sonic.c(1074,9): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  sonic_ffmpeg_sdl_audio_player.vcxproj -> E:\tool\project\bin\x86\sonic_ffmpeg_sdl_audio_player.exe

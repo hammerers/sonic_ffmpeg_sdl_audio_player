@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\sonic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:sonic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdecode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xdecode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\heap\\free_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\avqueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:avqueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdemux.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xdemux.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\mymojang\\QT\u9879\u76EE\\2\\13SDL2\u6E90\u7801\u7F16\u8BD1\u5B89\u88C5\u548C\u6E32\u67D3\u89C6\u9891\u63A5\u53E3\u8BE6\u89E3\\SDL2-2.0.12\\src\\thread\\windows\\SDL_systhread.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xformat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xformat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xdecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\tool\\msys64\\home\\ffmpeg-4.3\\libavformat\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xformat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xformat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdemux.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xdemux.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xcodec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xcodec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\TOOL\\VS_PROJECT\\1_PROJECT\\INCLUDE\\LIBAVUTIL\\ERROR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\sonic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:sonic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xcodec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|solutionrelative:xcodec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F1E098-C19B-434F-86E1-54B9F25E6679}|sonic_ffmpeg_sdl_audio_player.vcxproj|E:\\TOOL\\VS_PROJECT\\1_PROJECT\\INCLUDE\\LIBAVFORMAT\\AVFORMAT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sonic.c",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\sonic.c",
+              "RelativeDocumentMoniker": "sonic.c",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\sonic.c",
+              "RelativeToolTip": "sonic.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-15T07:27:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SDL_systhread.c",
+              "DocumentMoniker": "E:\\mymojang\\QT\u9879\u76EE\\2\\13SDL2\u6E90\u7801\u7F16\u8BD1\u5B89\u88C5\u548C\u6E32\u67D3\u89C6\u9891\u63A5\u53E3\u8BE6\u89E3\\SDL2-2.0.12\\src\\thread\\windows\\SDL_systhread.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\mymojang\\QT\u9879\u76EE\\2\\13SDL2\u6E90\u7801\u7F16\u8BD1\u5B89\u88C5\u548C\u6E32\u67D3\u89C6\u9891\u63A5\u53E3\u8BE6\u89E3\\SDL2-2.0.12\\src\\thread\\windows\\SDL_systhread.c",
+              "ToolTip": "E:\\mymojang\\QT\u9879\u76EE\\2\\13SDL2\u6E90\u7801\u7F16\u8BD1\u5B89\u88C5\u548C\u6E32\u67D3\u89C6\u9891\u63A5\u53E3\u8BE6\u89E3\\SDL2-2.0.12\\src\\thread\\windows\\SDL_systhread.c",
+              "RelativeToolTip": "..\\..\\..\\..\\mymojang\\QT\u9879\u76EE\\2\\13SDL2\u6E90\u7801\u7F16\u8BD1\u5B89\u88C5\u548C\u6E32\u67D3\u89C6\u9891\u63A5\u53E3\u8BE6\u89E3\\SDL2-2.0.12\\src\\thread\\windows\\SDL_systhread.c",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-15T06:57:44.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "utils.c",
+              "DocumentMoniker": "E:\\tool\\msys64\\home\\ffmpeg-4.3\\libavformat\\utils.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\msys64\\home\\ffmpeg-4.3\\libavformat\\utils.c",
+              "ToolTip": "E:\\tool\\msys64\\home\\ffmpeg-4.3\\libavformat\\utils.c",
+              "RelativeToolTip": "..\\..\\..\\msys64\\home\\ffmpeg-4.3\\libavformat\\utils.c",
+              "ViewState": "AgIAAOUGAAAAAAAAAAAWwPQGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-15T05:32:22.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "free_base.cpp",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\heap\\free_base.cpp",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.26100.0\\ucrt\\heap\\free_base.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAWwGsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T05:32:06.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xformat.cpp",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xformat.cpp",
+              "RelativeDocumentMoniker": "xformat.cpp",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xformat.cpp",
+              "RelativeToolTip": "xformat.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T05:21:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "error.h",
+              "DocumentMoniker": "E:\\tool\\vs_project\\1_project\\include\\libavutil\\error.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\vs_project\\1_project\\include\\libavutil\\error.h",
+              "ToolTip": "E:\\tool\\vs_project\\1_project\\include\\libavutil\\error.h",
+              "RelativeToolTip": "..\\..\\..\\vs_project\\1_project\\include\\libavutil\\error.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T05:12:21.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sonic.h",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\sonic.h",
+              "RelativeDocumentMoniker": "sonic.h",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\sonic.h",
+              "RelativeToolTip": "sonic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T04:36:02.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xdecode.cpp",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdecode.cpp",
+              "RelativeDocumentMoniker": "xdecode.cpp",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdecode.cpp",
+              "RelativeToolTip": "xdecode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T03:35:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "avqueue.h",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\avqueue.h",
+              "RelativeDocumentMoniker": "avqueue.h",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\avqueue.h",
+              "RelativeToolTip": "avqueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T03:36:01.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "xcodec.cpp",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xcodec.cpp",
+              "RelativeDocumentMoniker": "xcodec.cpp",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xcodec.cpp",
+              "RelativeToolTip": "xcodec.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T03:33:30.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "xdemux.cpp",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdemux.cpp",
+              "RelativeDocumentMoniker": "xdemux.cpp",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdemux.cpp",
+              "RelativeToolTip": "xdemux.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T03:33:16.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "xformat.h",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xformat.h",
+              "RelativeDocumentMoniker": "xformat.h",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xformat.h",
+              "RelativeToolTip": "xformat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T03:27:25.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "xcodec.h",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xcodec.h",
+              "RelativeDocumentMoniker": "xcodec.h",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xcodec.h",
+              "RelativeToolTip": "xcodec.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T03:28:00.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "avformat.h",
+              "DocumentMoniker": "E:\\tool\\vs_project\\1_project\\include\\libavformat\\avformat.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\vs_project\\1_project\\include\\libavformat\\avformat.h",
+              "ToolTip": "E:\\tool\\vs_project\\1_project\\include\\libavformat\\avformat.h",
+              "RelativeToolTip": "..\\..\\..\\vs_project\\1_project\\include\\libavformat\\avformat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T03:27:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "xdemux.h",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdemux.h",
+              "RelativeDocumentMoniker": "xdemux.h",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdemux.h",
+              "RelativeToolTip": "xdemux.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T03:25:27.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xdecode.h",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdecode.h",
+              "RelativeDocumentMoniker": "xdecode.h",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\xdecode.h",
+              "RelativeToolTip": "xdecode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T03:25:25.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\tool\\project\\src\\sonic_ffmpeg_sdl_audio_player\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T03:19:33.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

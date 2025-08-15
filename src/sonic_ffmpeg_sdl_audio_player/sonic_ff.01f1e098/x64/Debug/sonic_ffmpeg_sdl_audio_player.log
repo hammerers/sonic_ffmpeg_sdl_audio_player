@@ -1,0 +1,40 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+xcodec.obj : error LNK2019: 无法解析的外部符号 av_strerror，函数 "void __cdecl PrintErr(int)" (?PrintErr@@YAXH@Z) 中引用了该符号
+xdemux.obj : error LNK2001: 无法解析的外部符号 av_strerror
+xcodec.obj : error LNK2019: 无法解析的外部符号 av_frame_alloc，函数 "public: struct AVFrame * __cdecl XCodec::CreateAudioFrame(int,enum AVSampleFormat,int)" (?CreateAudioFrame@XCodec@@QEAAPEAUAVFrame@@HW4AVSampleFormat@@H@Z) 中引用了该符号
+xdecode.obj : error LNK2001: 无法解析的外部符号 av_frame_alloc
+xcodec.obj : error LNK2019: 无法解析的外部符号 av_frame_free，函数 "public: struct AVFrame * __cdecl XCodec::CreateAudioFrame(int,enum AVSampleFormat,int)" (?CreateAudioFrame@XCodec@@QEAAPEAUAVFrame@@HW4AVSampleFormat@@H@Z) 中引用了该符号
+xdecode.obj : error LNK2001: 无法解析的外部符号 av_frame_free
+xcodec.obj : error LNK2019: 无法解析的外部符号 av_frame_get_buffer，函数 "public: struct AVFrame * __cdecl XCodec::CreateAudioFrame(int,enum AVSampleFormat,int)" (?CreateAudioFrame@XCodec@@QEAAPEAUAVFrame@@HW4AVSampleFormat@@H@Z) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 avcodec_find_decoder，函数 "public: static struct AVCodecContext * __cdecl XCodec::Create(int,bool)" (?Create@XCodec@@SAPEAUAVCodecContext@@H_N@Z) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 avcodec_find_encoder，函数 "public: static struct AVCodecContext * __cdecl XCodec::Create(int,bool)" (?Create@XCodec@@SAPEAUAVCodecContext@@H_N@Z) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 avcodec_alloc_context3，函数 "public: static struct AVCodecContext * __cdecl XCodec::Create(int,bool)" (?Create@XCodec@@SAPEAUAVCodecContext@@H_N@Z) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 avcodec_free_context，函数 "public: void __cdecl XCodec::set_c(struct AVCodecContext *)" (?set_c@XCodec@@QEAAXPEAUAVCodecContext@@@Z) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 avcodec_open2，函数 "public: bool __cdecl XCodec::Open(void)" (?Open@XCodec@@QEAA_NXZ) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 av_opt_set，函数 "public: bool __cdecl XCodec::SetOpt(char const *,char const *)" (?SetOpt@XCodec@@QEAA_NPEBD0@Z) 中引用了该符号
+xcodec.obj : error LNK2019: 无法解析的外部符号 av_opt_set_int，函数 "public: bool __cdecl XCodec::SetOpt(char const *,int)" (?SetOpt@XCodec@@QEAA_NPEBDH@Z) 中引用了该符号
+xdecode.obj : error LNK2019: 无法解析的外部符号 av_hwdevice_ctx_create，函数 "public: bool __cdecl XDecode::InitHW(int)" (?InitHW@XDecode@@QEAA_NH@Z) 中引用了该符号
+xdecode.obj : error LNK2019: 无法解析的外部符号 av_hwframe_transfer_data，函数 "public: bool __cdecl XDecode::Recv(struct AVFrame *)" (?Recv@XDecode@@QEAA_NPEAUAVFrame@@@Z) 中引用了该符号
+xdecode.obj : error LNK2019: 无法解析的外部符号 avcodec_send_packet，函数 "public: class std::vector<struct AVFrame *,class std::allocator<struct AVFrame *> > __cdecl XDecode::End(void)" (?End@XDecode@@QEAA?AV?$vector@PEAUAVFrame@@V?$allocator@PEAUAVFrame@@@std@@@std@@XZ) 中引用了该符号
+xdecode.obj : error LNK2019: 无法解析的外部符号 avcodec_receive_frame，函数 "public: class std::vector<struct AVFrame *,class std::allocator<struct AVFrame *> > __cdecl XDecode::End(void)" (?End@XDecode@@QEAA?AV?$vector@PEAUAVFrame@@V?$allocator@PEAUAVFrame@@@std@@@std@@XZ) 中引用了该符号
+xdemux.obj : error LNK2019: 无法解析的外部符号 avformat_open_input，函数 "public: static struct AVFormatContext * __cdecl XDemux::Open(char const *)" (?Open@XDemux@@SAPEAUAVFormatContext@@PEBD@Z) 中引用了该符号
+xdemux.obj : error LNK2019: 无法解析的外部符号 avformat_find_stream_info，函数 "public: static struct AVFormatContext * __cdecl XDemux::Open(char const *)" (?Open@XDemux@@SAPEAUAVFormatContext@@PEBD@Z) 中引用了该符号
+xdemux.obj : error LNK2019: 无法解析的外部符号 av_read_frame，函数 "public: bool __cdecl XDemux::Read(struct AVPacket *)" (?Read@XDemux@@QEAA_NPEAUAVPacket@@@Z) 中引用了该符号
+xdemux.obj : error LNK2019: 无法解析的外部符号 av_seek_frame，函数 "public: bool __cdecl XDemux::Seek(__int64,int)" (?Seek@XDemux@@QEAA_N_JH@Z) 中引用了该符号
+xdemux.obj : error LNK2019: 无法解析的外部符号 av_dump_format，函数 "public: static struct AVFormatContext * __cdecl XDemux::Open(char const *)" (?Open@XDemux@@SAPEAUAVFormatContext@@PEBD@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 av_rescale_q，函数 "public: bool __cdecl XFormat::RescaleTime(struct AVPacket *,__int64,struct XRational)" (?RescaleTime@XFormat@@QEAA_NPEAUAVPacket@@_JUXRational@@@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 av_rescale_q_rnd，函数 "public: bool __cdecl XFormat::RescaleTime(struct AVPacket *,__int64,struct XRational)" (?RescaleTime@XFormat@@QEAA_NPEAUAVPacket@@_JUXRational@@@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 avcodec_parameters_copy，函数 "public: bool __cdecl XFormat::CopyPara(int,struct AVCodecParameters *)" (?CopyPara@XFormat@@QEAA_NHPEAUAVCodecParameters@@@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 avcodec_parameters_to_context，函数 "public: bool __cdecl XFormat::CopyPara(int,struct AVCodecContext *)" (?CopyPara@XFormat@@QEAA_NHPEAUAVCodecContext@@@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 avio_closep，函数 "public: void __cdecl XFormat::set_c(struct AVFormatContext *)" (?set_c@XFormat@@QEAAXPEAUAVFormatContext@@@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 avformat_free_context，函数 "public: void __cdecl XFormat::set_c(struct AVFormatContext *)" (?set_c@XFormat@@QEAAXPEAUAVFormatContext@@@Z) 中引用了该符号
+xformat.obj : error LNK2019: 无法解析的外部符号 avformat_close_input，函数 "public: void __cdecl XFormat::set_c(struct AVFormatContext *)" (?set_c@XFormat@@QEAAXPEAUAVFormatContext@@@Z) 中引用了该符号
+..\..\lib\x86\avcodec.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\avdevice.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\avfilter.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\avformat.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\avutil.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\postproc.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\swresample.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\lib\x86\swscale.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+..\..\bin\x86\sonic_ffmpeg_sdl_audio_player.exe : fatal error LNK1120: 27 个无法解析的外部命令
